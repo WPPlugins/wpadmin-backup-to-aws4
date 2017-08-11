@@ -1,0 +1,7 @@
+
+<Files *.sql>
+deny from all
+</Files>
+<Files *.snar>
+deny from all
+</Files>
